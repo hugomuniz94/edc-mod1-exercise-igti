@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AppData/Local/AMD/CN/RGStats.db
 AppData/Local/AMD/CN/RSX_Common.log_2021-8-18_8_45_35.log
 AppData/Local/AMD/DxCache/6fff874b4221fe0601428c4f6b02743f5a75c7f04a289ace.bin
@@ -4419,3 +4420,11 @@ AppData/Local/Google/Chrome/User Data/Default/Code Cache/js/eaab120043ef0abf_0
 .vscode/extensions/tht13.python-0.2.3/out/test/index.js.map
 .vscode/extensions/tht13.python-0.2.3/out/test/pythonMain.test.js
 .vscode/extensions/tht13.python-0.2.3/out/test/pythonMain.test.js.map
+=======
+*.csv
+.DS_Store
+.terraform/
+.terraform.lock.hcl
+lambda_function_payload.zip
+airflow_variables.json
+>>>>>>> 7008879700116b994414118433fd4d4d73a5160a
