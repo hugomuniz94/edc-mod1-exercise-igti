@@ -1,4 +1,0 @@
-{
-	"dacFx.settings": "Dacpac",
-	"dacFx.defaultSaveLocation": "Full path to folder where .DACPAC and .BACPAC files are saved by default"
-}
